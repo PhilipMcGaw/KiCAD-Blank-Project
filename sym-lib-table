@@ -1,4 +1,3 @@
 (sym_lib_table
   (lib (name SquashedFly_Logo)(type Legacy)(uri "${KICAD_USER_TEMPLATE_DIR}/blank project/Libraries/SquashedFly Logos/SquashedFly Logo.lib")(options "")(descr ""))
-  (lib (name QRE1113)(type Legacy)(uri "${KICAD_USER_TEMPLATE_DIR}/blank project/Libraries/QRE1113 - Miniature Reflective Object Sensor/QRE1113.lib")(options "")(descr ""))
 )
